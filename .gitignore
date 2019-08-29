@@ -1,0 +1,8 @@
+.project
+.classpath
+.settings
+.scannerwork
+/.settings/
+/.scannerwork/
+/target/
+/logs/

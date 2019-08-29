@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="10" parallel="classes" thread-count="1">
+	<test name="regression">
+		<classes>
+			<class name="appiumTest.TestAppium" />
+		</classes>
+	</test>
+</suite>
